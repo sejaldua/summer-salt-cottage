@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Overview on Summer Salt Cottage</title>
+    <link>/docs/</link>
+    <description>Recent content in Overview on Summer Salt Cottage</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Appliances</title>
+      <link>/docs/appliances/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/appliances/</guid>
+      <description>Microwave / Oven Sometimes there will be a power failure on the Oven (after a long period of non use). If this happens, go to the electric panel in the garage and flip the breaker labeled “Oven”.</description>
+    </item>
+    
+    <item>
+      <title>Media</title>
+      <link>/docs/media/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/media/</guid>
+      <description>We have lots of books, games, and a Wii game controller in the bonus room (there is a sleeper sofa there too). Enjoy everything and please leave it the way it was for the next guest.</description>
+    </item>
+    
+    <item>
+      <title>Recommendations</title>
+      <link>/docs/recs/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/recs/</guid>
+      <description>Eateries  Marzanos: above the coffee shop, the best pizza and calzones Yolk: awesome breakfast place Mudd Dog: hot dog stand next to Manzanita Coffee shop Left Coast Siesta: burritos and healthy Mexican Sand Dunes: great burgers and fish tacos (21 and up only) A Mighty Thai: yummy Thai, we usually do take out  Coffee Shops  Manzanita Coffee Shop: great coffee and pastries Manzanita News &amp;amp; Expresso: nice outdoor seating and amazing coffee and pastries  </description>
+    </item>
+    
+    <item>
+      <title>Speakers</title>
+      <link>/docs/speakers/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/speakers/</guid>
+      <description>Our house is equipped with Sonos speakers. Here are the steps to use the speaker system:
+ Connect to our home internet. Wifi credentials can be found here Download the Sonos app Login to your own Sonos account and then your desired streaming accounts.</description>
+    </item>
+    
+    <item>
+      <title>TV</title>
+      <link>/docs/television/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/television/</guid>
+      <description>The home is equipped with cable TV and Apple TVs. There are several remotes. The silver larger remote is for cable. And the smaller black remote is for Apple TV. To turn the TV on you can press the TV button on the silver remote and then press the on/off (power) button.</description>
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>/docs/wifi/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>/docs/wifi/</guid>
+      <description>Network Name: MySpectrumWifi50-5G
+Password: bluebook070</description>
+    </item>
+    
+  </channel>
+</rss>
