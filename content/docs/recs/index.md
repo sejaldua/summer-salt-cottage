@@ -17,4 +17,4 @@ weight: 2
 ## Coffee Shops
 
 - **Manzanita Coffee Shop**: great coffee and pastries
-- **Manzanita News & Expresso**: nice outdoor seating and amazing coffee and pastries
+- **Manzanita News & Espresso**: nice outdoor seating and amazing coffee and pastries
