@@ -9,6 +9,15 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="https://summersaltcottage.info/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Appliances</title>
+      <link>https://summersaltcottage.info/appliances/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/appliances/</guid>
+      <description>Microwave / Oven Sometimes there will be a power failure on the Oven (after a long period of non use). If this happens, go to the electric panel in the garage and flip the breaker labeled “Oven”.</description>
+    </item>
+    
+    <item>
+      <title>Appliances</title>
       <link>https://summersaltcottage.info/docs/appliances/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
@@ -26,6 +35,15 @@
     </item>
     
     <item>
+      <title>Media</title>
+      <link>https://summersaltcottage.info/media/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/media/</guid>
+      <description>We have lots of books, games, and a Wii game controller in the bonus room (there is a sleeper sofa there too). Enjoy everything and please leave it the way it was for the next guest.</description>
+    </item>
+    
+    <item>
       <title>Recommendations</title>
       <link>https://summersaltcottage.info/docs/recs/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
@@ -35,11 +53,29 @@
     </item>
     
     <item>
+      <title>Recommendations</title>
+      <link>https://summersaltcottage.info/recs/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/recs/</guid>
+      <description>Eateries  Marzanos: above the coffee shop, the best pizza and calzones Yolk: awesome breakfast place Mudd Dog: hot dog stand next to Manzanita Coffee shop Left Coast Siesta: burritos and healthy Mexican Sand Dunes: great burgers and fish tacos (21 and up only) A Mighty Thai: yummy Thai, we usually do take out  Coffee Shops  Manzanita Coffee Shop: great coffee and pastries Manzanita News &amp;amp; Espresso: nice outdoor seating and amazing coffee and pastries  </description>
+    </item>
+    
+    <item>
       <title>Reviews</title>
       <link>https://summersaltcottage.info/docs/reviews/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://summersaltcottage.info/docs/reviews/</guid>
+      <description>Rave review! ★★★★★  We were very impressed with the house and the location. Great layout, very comfortable beds, everything in excellent condition. We had 8 people in our group, 6 adults and 2 children.</description>
+    </item>
+    
+    <item>
+      <title>Reviews</title>
+      <link>https://summersaltcottage.info/reviews/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/reviews/</guid>
       <description>Rave review! ★★★★★  We were very impressed with the house and the location. Great layout, very comfortable beds, everything in excellent condition. We had 8 people in our group, 6 adults and 2 children.</description>
     </item>
     
@@ -54,6 +90,16 @@
     </item>
     
     <item>
+      <title>Speakers</title>
+      <link>https://summersaltcottage.info/speakers/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/speakers/</guid>
+      <description>Our house is equipped with Sonos speakers. Here are the steps to use the speaker system:
+ Connect to our home internet. Wifi credentials can be found here Download the Sonos app Login to your own Sonos account and then your desired streaming accounts.</description>
+    </item>
+    
+    <item>
       <title>TV</title>
       <link>https://summersaltcottage.info/docs/television/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
@@ -63,11 +109,30 @@
     </item>
     
     <item>
+      <title>TV</title>
+      <link>https://summersaltcottage.info/television/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/television/</guid>
+      <description>The home is equipped with cable TV and Apple TVs. There are several remotes. The silver larger remote is for cable. And the smaller black remote is for Apple TV. To turn the TV on you can press the TV button on the silver remote and then press the on/off (power) button.</description>
+    </item>
+    
+    <item>
       <title>Wifi</title>
       <link>https://summersaltcottage.info/docs/wifi/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
       <guid>https://summersaltcottage.info/docs/wifi/</guid>
+      <description>Network Name: MySpectrumWifi50-5G or MySpectrumWifi50-2.4G also works!
+Password: bluebook070</description>
+    </item>
+    
+    <item>
+      <title>Wifi</title>
+      <link>https://summersaltcottage.info/wifi/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://summersaltcottage.info/wifi/</guid>
       <description>Network Name: MySpectrumWifi50-5G or MySpectrumWifi50-2.4G also works!
 Password: bluebook070</description>
     </item>
